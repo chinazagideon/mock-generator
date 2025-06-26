@@ -4,12 +4,12 @@ A comprehensive mock data generator that creates realistic test data based on fi
 
 ## Features
 
-- 🎯 **Type-based generation**: Define field types and get realistic data
-- 📊 **Multiple output formats**: JSON, CSV, JS, TS
-- 🔧 **Customizable**: Support for custom field types and parameters
-- 🌱 **Seeded generation**: Reproducible data with seed values
-- 💼 **Business-specific**: Pre-built generators for common business data
-- 📁 **Auto-save**: Automatically save to files with directory creation
+- **Type-based generation**: Define field types and get realistic data
+- **Multiple output formats**: JSON, CSV, JS, TS
+- **Customizable**: Support for custom field types and parameters
+- **Seeded generation**: Reproducible data with seed values
+- **Business-specific**: Pre-built generators for common business data
+- **Auto-save**: Automatically save to files with directory creation
 
 ## Quick Start
 
@@ -399,7 +399,3 @@ const FIELD_GENERATORS = {
 - `@faker-js/faker`: For generating realistic fake data
 - `fs`: For file system operations
 - `path`: For path manipulation
-
-## License
-
-This mock data generator is part of the webadmin-frontend project. 
